@@ -45,4 +45,4 @@ Linux下有很多命令行工具供我们使用，每个工具总是提供了大
 - 作者：大CC
 - 博客：http://blog.me115.com
 - Github地址：https://github.com/me115/linuxtools_rst
-
+关于shell 脚本对文本的操作都在base目录下，可以进行参看
